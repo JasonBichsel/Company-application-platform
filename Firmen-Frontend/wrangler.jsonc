@@ -1,0 +1,8 @@
+{
+    "name": "mein-projekt-name",
+    "compatibility_date": "2025-04-21",
+    "assets": {
+      "directory": "./dist"  // oder ./dist je nach Projekt
+    }
+  }
+  
